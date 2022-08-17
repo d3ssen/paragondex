@@ -30,6 +30,7 @@ Thank you.
 - added link to github repo.
 
 
+
 #### 2022-08-16
 - added password reveal feature to login screen
 - fixed missing icons for unknown origin/archetype/alignment

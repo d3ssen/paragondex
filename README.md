@@ -20,3 +20,7 @@ regardless of the server they are playing on.
 
 
 Thank you.
+
+---
+
+[Change log](CHANGELOG.md)

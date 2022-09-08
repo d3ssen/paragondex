@@ -13,3 +13,7 @@
 #### 2022-08-16
 - added feature to reveal password on login screen
 - fixed missing icons for unknown origin/archetype/alignment
+
+---
+
+## Version history

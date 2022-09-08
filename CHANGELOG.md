@@ -14,6 +14,3 @@
 - added feature to reveal password on login screen
 - fixed missing icons for unknown origin/archetype/alignment
 
----
-
-## Version history

@@ -1,5 +1,5 @@
 # Paragondex
-**Version:** `0.4b`
+**Version:** `Beta 0.4.5`
 
 #### Description:
 A web application to register characters from the **City of Heroes** game.

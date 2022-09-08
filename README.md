@@ -5,7 +5,7 @@
 A web application to register characters from the **City of Heroes** game.
 Mostly still in development but a limited beta is currently running with a limited amount of users.
 
-**Application url:** `https://cohdb.epizy.com`
+**Application url:** https://cohdb.epizy.com
 
 ---
 
